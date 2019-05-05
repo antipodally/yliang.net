@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://zion.nyc3.digitaloceanspaces.com/yliang.net/precache-manifest.95bb58fda3f403ae6217d8c98ce9e6d4.js"
+  "https://zion.nyc3.digitaloceanspaces.com/yliang.net/precache-manifest.087b547dc2ae47240d4ce3464d55a6fe.js"
 );
 
 workbox.clientsClaim();

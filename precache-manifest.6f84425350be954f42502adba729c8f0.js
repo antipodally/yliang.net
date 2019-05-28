@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/logoer.b02e95f6.png"
   },
   {
-    "revision": "9d92897853ac660f5b0544c845f6a836",
+    "revision": "cc924b391896dedc96c95cdb531fc3df",
     "url": "/index.html"
   }
 ];
